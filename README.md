@@ -30,6 +30,8 @@ Dataset paths and parameters are set in `config_regression.json` file. Modify th
   }
 ```
 
+For MOSI and MOSEI, pre-trained models are downloadable at [Google Drive](https://drive.google.com/drive/folders/1Pfc37oLQhLF7d_4VPsvhnOKeMJSEDBjR?usp=sharing).
+
 ### 1.2 Environment
 
 ```python
